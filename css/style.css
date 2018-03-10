@@ -34,3 +34,11 @@
 .menu{
 	float: right;
 }
+/*m10-20*/
+/*brs5*/
+/*lg(left, #ddd, #ccc)*/
+table, th, td
+	{
+	border: 1px, solid black;
+	border-collapse: collapse;
+ 	}
